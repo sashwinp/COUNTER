@@ -1,1 +1,1 @@
-# counter
+this is a source code of simpple android counter application.which is first step for android devloper.i have choose two button and one textview,one button for a click event and second button for toast.hope you understand ....happy coding!!
